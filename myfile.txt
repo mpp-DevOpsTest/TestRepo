@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 inserted using master branch
+=======
+firt line
+>>>>>>> devlopment
